@@ -1,0 +1,21 @@
+{
+  "name": "tcharai",
+  "version": "1.0.0",
+  "description": "A TUI script for interacting with CharacterAI using Python\r ![](https://github.com/niizam/tcharai/blob/main/tcharai.gif)\r Install requirements\r ```\r pip install -r requirements.txt\r playwright install firefox\r ```",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niizam/tcharai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niizam/tcharai/issues"
+  },
+  "homepage": "https://github.com/niizam/tcharai#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
